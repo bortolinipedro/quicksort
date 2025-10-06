@@ -5,7 +5,7 @@ Este projeto realiza uma análise comparativa entre diferentes implementações 
 ## 📁 Estrutura do Projeto
 
 ```
-paa1/
+quicksort/
 ├── algoritmos/           # Implementações dos algoritmos
 │   ├── quicksort-recursivo.js
 │   ├── quicksort-hibrido.js
