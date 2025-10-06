@@ -83,7 +83,6 @@ Para cada algoritmo, são coletadas as seguintes métricas:
 
 - **Threshold (M)**: 10 (valor empírico determinado)
 - **Número de execuções**: 10 por algoritmo/array
-- **Garbage Collection**: Ativado para limpeza de memória
 
 ## 📋 Resultados
 
